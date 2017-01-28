@@ -115,8 +115,8 @@
             this.laplacinToolStripMenuItem.Name = "laplacinToolStripMenuItem";
             this.laplacinToolStripMenuItem.Padding = new System.Windows.Forms.Padding(10, 5, 10, 5);
             this.laplacinToolStripMenuItem.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.laplacinToolStripMenuItem.Size = new System.Drawing.Size(161, 31);
-            this.laplacinToolStripMenuItem.Text = "Transform Image";
+            this.laplacinToolStripMenuItem.Size = new System.Drawing.Size(121, 31);
+            this.laplacinToolStripMenuItem.Text = "Apply Filter";
             this.laplacinToolStripMenuItem.Click += new System.EventHandler(this.laplacinToolStripMenuItem_Click);
             // 
             // openFileDialog1
